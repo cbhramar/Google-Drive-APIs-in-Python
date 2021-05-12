@@ -10,7 +10,7 @@ from googleapiclient.http import MediaIoBaseDownload
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-SAMPLE_ID = '1Q00HQCnAyKnbhcIlAjRleD89lwI7NaFG'
+SAMPLE_ID = 'any-random-sample-id'
 
 def authenticate():
     creds = None
